@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background: whitesmoke;
+  color: red; }
+
+.myclass {
+  background: cyan;
+  color: blue; }
+
+.container {
+  width: 500px;
+  height: 500px;
+  background: black;
+  margin: 200px auto; }
+
+/*# sourceMappingURL=style.css.map */
